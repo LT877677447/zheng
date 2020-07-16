@@ -12,4 +12,4 @@ generatorConfig.xml
 *.cache
 *.lock
 /build/
-*.settings
+*.settings 
